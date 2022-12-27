@@ -1,8 +1,8 @@
 # Email Application
 ### Created Fall 2022
 
-##Languages and Framework
+## Languages and Framework
 
-##Description
+## Description
 
-##Video Presentation
+## Video Presentation
