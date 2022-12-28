@@ -27,4 +27,4 @@ and PostgreSQL.
 The specifications for my Email Application follow wireframes provided by the Professor. In the two weeks we had to complete the project, we had a list of Email Application speicifications to complete (ones similar to Gmail), and with each specification completed we would earn more points. The speicifcations I was able to complete was the following: a login page for two different users, login credentials stored in a database with any passwords hashed, URL redirecting if a user tries to force themselves into the Email Home page, a 404 Error Page, Emails stored in a database, Emai list sorted by time, Clickable Emails to display entire Email, Mailbox selector sidebar, Email search bar, Email composer, and breakpoints for a mobile, narrow desktop, and wide desktop view.
 
 **Frontend:**
-I combined Material UI with React in order to create a 
+I combined Material UI components with React in order to create a single page application for Email. Material UI was quite helpful for creating certain sidebar or navigation bar components, and even allowed me to create breakpoints for mobile and desktop sizes of the web application. 
