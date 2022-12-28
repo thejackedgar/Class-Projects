@@ -7,13 +7,21 @@ Express JS,
 React,
 and PostgreSQL.
 
+## Video Presentation
+[Youtube](https://youtu.be/9b70UTaXtA8)
+
 ## Framework
 **Frontend:**
+- React
+- Material UI
 
 **Server:**
+- Node
+- Express for middleware
+- OpenAPI
 
 **Database:**
+- PostgreSQL
 
 ## Description
 
-## Video Presentation
