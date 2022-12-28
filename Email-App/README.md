@@ -8,7 +8,7 @@ React,
 and PostgreSQL.
 
 ## Video Presentation
-[Youtube](https://youtu.be/9b70UTaXtA8)
+[YouTube](https://youtu.be/9b70UTaXtA8)
 
 ## Framework
 **Frontend:**
@@ -17,11 +17,14 @@ and PostgreSQL.
 
 **Server:**
 - Node
-- Express for middleware
-- OpenAPI
+- Express for Middleware
+- OpenAPI Specification
 
 **Database:**
 - PostgreSQL
 
 ## Description
+The specifications for my Email Application follow wireframes provided by the Professor. In the two weeks we had to complete the project, we had a list of Email Application speicifications to complete (ones similar to Gmail), and with each specification completed we would earn more points. 
 
+**Frontend:**
+I combined Material UI with React in order to create a 
