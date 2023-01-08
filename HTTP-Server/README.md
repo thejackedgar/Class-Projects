@@ -3,7 +3,7 @@ Created in Spring 2022 for my Computer Systems Design class (CSE130). For this p
 
 ## Video Presentation
 [YouTube]()
-Basic HTTP Server functionality using `curl` to send requests
+- Basic HTTP Server functionality using `curl` to send requests
 
 ## Description
 
