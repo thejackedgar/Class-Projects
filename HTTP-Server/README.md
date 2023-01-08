@@ -2,8 +2,8 @@
 Created in Spring 2022 for my Computer Systems Design class (CSE130). For this project I used C to create a multi-threaded HTTP server. In a previous class project, I started out by creating a simple HTTP server with methods GET, PUT, and a new method APPEND which as the name may describe, appends text to an existing file. Since we already created our own HTTP Server, the key part of this assignment was to  figure out how to pool threads and dispatch HTTP requests to our worker pool while ensuring atomicity and concurrency on our files. Our particular HTTP Server was hosted locally. A more in-depth look at the assignment can be seen in **Assignment.pdf**.
 
 ## Video Presentation
-[YouTube]()
-- Basic HTTP Server functionality using `curl` to send requests
+Basic HTTP Server functionality using `curl` to send requests
+- [YouTube]()
 
 ## Description
 
