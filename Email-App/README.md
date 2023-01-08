@@ -9,7 +9,7 @@ and PostgreSQL.
 Wireframes for the Email application can be seen in **Assignment.pdf**
 
 ## Video Presentation
-[YouTube](https://www.youtube.com/watch?v=Qvbr5HfewDk)
+[YouTube](https://youtu.be/9b70UTaXtA8)
 
 ## Framework
 **Frontend:**
