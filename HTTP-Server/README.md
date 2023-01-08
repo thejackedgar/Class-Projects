@@ -3,7 +3,7 @@ Created in Spring 2022 for my Computer Systems Design class (CSE130). For this p
 
 ## Video Presentation
 Basic HTTP Server functionality using `curl` to send requests (Using an Ubuntu virtual machine terminal)
-- [YouTube]()
+- [YouTube](https://www.youtube.com/watch?v=f2CxENj_Nd8)
 
 ## Description
 
