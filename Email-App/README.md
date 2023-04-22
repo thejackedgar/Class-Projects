@@ -6,7 +6,6 @@ Node JS,
 Express JS,
 React,
 and PostgreSQL.
-Wireframes for the Email application can be seen in **Assignment.pdf**
 
 ## Video Presentation
 [YouTube](https://youtu.be/9b70UTaXtA8)
